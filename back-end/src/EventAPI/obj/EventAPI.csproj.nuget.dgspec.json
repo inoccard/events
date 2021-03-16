@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\EventAPI.csproj": {}
+    "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\EventAPI.csproj": {}
   },
   "projects": {
-    "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\EventAPI.csproj": {
+    "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\EventAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\EventAPI.csproj",
+        "projectUniqueName": "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\EventAPI.csproj",
         "projectName": "EventAPI",
-        "projectPath": "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\EventAPI.csproj",
+        "projectPath": "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\EventAPI.csproj",
         "packagesPath": "C:\\Users\\inoce\\.nuget\\packages\\",
-        "outputPath": "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\obj\\",
+        "outputPath": "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

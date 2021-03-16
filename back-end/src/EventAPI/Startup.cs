@@ -43,8 +43,8 @@ namespace EventAPI
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "EventAPI v1"));
             }
-
-            app.UseHttpsRedirection();
+            else
+                app.UseHttpsRedirection();
 
             app.UseRouting();
 

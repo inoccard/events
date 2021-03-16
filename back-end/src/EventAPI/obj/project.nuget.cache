@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37NY5OXjommK9DrtlJ059l+Hayt7aY8lCzZ/VaH+zqcfTaPNU7jzXAONqCbw+k/Pt1IcTsmbHd+aTIxopV7KlQ==",
+  "dgSpecHash": "bBTT56FtZmlMAnGoZegXZMwXlKNosUpwA0qCmawl4jd+13N0SpdXV3c8dSKvBi4L7HQWAgV8qE1/GaCFFAtqoQ==",
   "success": true,
-  "projectFilePath": "C:\\inoccard\\code\\events\\back-end\\src\\EventAPI\\EventAPI.csproj",
+  "projectFilePath": "C:\\inoccard\\code\\events\\back-end\\src\\eventapi\\EventAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inoce\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\inoce\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
